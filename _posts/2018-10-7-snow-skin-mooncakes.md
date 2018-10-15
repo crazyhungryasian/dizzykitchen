@@ -22,7 +22,6 @@ recipe:
     * 1 1/2 cups of milk (I prefer whole)
     * 5 bags of black tea
 
-
   directions_markdown: |-
     **Red Bean Filling**
     1. Whisk together the brown sugar and water until the sugar has dissolved.
