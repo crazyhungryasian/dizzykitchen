@@ -1,5 +1,6 @@
 ---
-youtube-id: z0pBM93tUts
+comments: true
+youtube-id: _3CYJfA_njQ
 date: 2018-09-20
 title: boba milk tea
 categories:
@@ -64,6 +65,6 @@ you can make a ton at a very low price. This recipe is super fun to make with fa
 
 With this recipe, you can really make it your own. You can swap out the matcha powder for strawberry ice cream or mango puree. You can even try green tea instead of black tea. Using almond or cashew milk instead of regular milk is super delicious as well!
 
-What will I do better next time? My goal would probably be to make the boba way smaller. As you can from the video, I made some thicc balls, thicc enough I could barely get them up the straw. Oh well! We're all still on a learning curve right? I'd also like to explore into the realm of Hong Kong milk teas. I recently came back from Hong Kong and apparently there is this super famous shop named Lan Fong Yuen on Hong Kong Island that will filter your tea through a woman's stocking! Because its such a fine sieve, the tea will come out silky smooth. They also will add in some evaporated milk I believe. Stay tuned for a new recipe soon! 
+What will I do better next time? My goal would probably be to make the boba way smaller. As you can from the video, I made some thicc balls, thicc enough I could barely get them up the straw. Oh well! We're all still on a learning curve right? I'd also like to explore into the realm of Hong Kong milk teas. I recently came back from Hong Kong and apparently there is this super famous shop named Lan Fong Yuen on Hong Kong Island that will filter your tea through a woman's stocking! Because its such a fine sieve, the tea will come out silky smooth. They also will add in some evaporated milk I believe. Stay tuned for a new recipe soon!
 
 {% include youtube-player.html id=page.youtube-id %}

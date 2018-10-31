@@ -1,4 +1,5 @@
 ---
+comments: true
 youtube-id: z0pBM93tUts
 date: 2018-10-07
 title: snow-skin mooncakes

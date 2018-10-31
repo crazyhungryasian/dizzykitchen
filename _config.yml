@@ -2,8 +2,8 @@
 # Site
 
 title: dizzy kitchen
-url: "https://dizzydizzykitchen.com"
-baseurl: 
+url: "https://www.dizzydizzykitchen.com"
+baseurl:
 google_analytics_key: UA-127462434-1
 newsletter_action:
 disqus_shortname: dizzydizzykitchen
@@ -12,7 +12,7 @@ disqus_shortname: dizzydizzykitchen
 logo: /siteicon.png
 description: A fun cooking/recipies website
 author:
-  name:
+  name: Diana Zhang
   email: contact@dizzydizzykitchen.com
   twitter:
 social:
