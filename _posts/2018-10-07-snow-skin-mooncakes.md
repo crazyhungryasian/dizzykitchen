@@ -1,6 +1,6 @@
 ---
 comments: true
-youtube-id: z0pBM93tUts
+youtube-id: QH2-TGUlwu4
 date: 2018-10-07
 title: snow-skin mooncakes
 categories:
@@ -21,8 +21,7 @@ recipe:
     * 3 cups of water
     * 2 tbsp of condensed milk
     * 1/8 cups of granulated sugar
-    * 1 1/2 cups of milk (I prefer whole)
-    * 5 bags of black tea
+    * 1 1/2 cups of milk (I prefer whole milk)
 
   directions_markdown: |-
     **Red Bean Filling**
@@ -56,7 +55,7 @@ recipe:
     5. Repeat for all spheres.
     6. Take your mooncake mold and press firmly onto the finished sphere, hold for 5 seconds, then release.
 ---
-Eating mooncake during the mid-autumn festival has always been a Chinese family tradition. I think
+Eating mooncake during the Mid-Autumn Festival has always been a Chinese family tradition. The first mooncake appeared back in 1600 B.C. and regained its popularity in the second century Han Dynasty. Sharing resemblance with the celestial object, mooncakes nowadays have 8 variations, depending on where their origins are in China. One of the most popular fillings for mooncakes is the salted duck egg yolk. The most luxurious of the pastries will contain four egg yolks, each to represent a phase of the moon.
 
 This particular type of mooncake is famous to the Guangzhou area or at least the southern part of China. It's not like the traditional mooncake thats baked and usually filled with some type of salted duck egg yolk. This mooncake, with the amount of glutinous flour used, almost takes like a Japanese mochi. And when frozen, mochi ice cream! Now who doesn't love that? All in all, it's sweet, subtly creamy, and just a wonderful treat to share with friends and family.
 

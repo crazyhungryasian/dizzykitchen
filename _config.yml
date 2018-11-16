@@ -5,7 +5,7 @@ title: dizzy kitchen
 url: "https://www.dizzydizzykitchen.com"
 baseurl:
 google_analytics_key: UA-127462434-1
-newsletter_action:
+newsletter_action: 
 disqus_shortname: dizzydizzykitchen
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
