@@ -1,12 +1,11 @@
 ---
 comments: true
-youtube-id: QH2-TGUlwu4
+youtube-id: _3CYJfA_njQ
 date: 2018-09-20
 title: boba milk tea
 categories:
   - drinks
-  - asian
-featured_image: /assets/IMG_7674.jpg
+featured_image: /assets/IMG_7674_2.jpg
 recipe:
   servings: enough for 4 people
   prep: 30 minutes

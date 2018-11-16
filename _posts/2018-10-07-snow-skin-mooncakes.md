@@ -1,11 +1,10 @@
 ---
 comments: true
-youtube-id: QH2-TGUlwu4
+youtube-id: ewR_93hU9GA
 date: 2018-10-07
 title: snow-skin mooncakes
 categories:
   - desserts
-  - asian
 featured_image: /assets/IMG_7832.jpg
 recipe:
   servings: 18 50g mooncakes // 9 100g mooncakes

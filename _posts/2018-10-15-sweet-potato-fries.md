@@ -1,11 +1,10 @@
 ---
 comments: true
-youtube-id: QH2-TGUlwu4
+youtube-id: _vSRM2PAn_I
 date: 2018-10-15
 title: sweet potato fries
 categories:
   - sides
-  - western
 featured_image: /assets/IMG_7949.jpg
 recipe:
   servings: for 3 people
