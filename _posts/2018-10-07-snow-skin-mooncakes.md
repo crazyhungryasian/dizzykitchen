@@ -8,7 +8,7 @@ categories:
 featured_image: /assets/IMG_7832.jpg
 recipe:
   servings: 18 50g mooncakes // 9 100g mooncakes
-  prep: 30 minutes
+  prep: 20 minutes
   cook: 1 hr 30 minutes
   ingredients_markdown: |-
     **Red Bean Filling**
@@ -54,10 +54,10 @@ recipe:
     5. Repeat for all spheres.
     6. Take your mooncake mold and press firmly onto the finished sphere, hold for 5 seconds, then release.
 ---
-Eating mooncake during the Mid-Autumn Festival has always been a Chinese family tradition. The first mooncake appeared back in 1600 B.C. and regained its popularity in the second century Han Dynasty. Sharing resemblance with the celestial object, mooncakes nowadays have 8 variations, depending on where their origins are in China. One of the most popular fillings for mooncakes is the salted duck egg yolk. The most luxurious of the pastries will contain four egg yolks, each to represent a phase of the moon.
+Eating mooncake during the Mid-Autumn Festival has always been a Chinese family tradition. The first mooncake appeared back in 1600 B.C. and regained its popularity in the second century Han Dynasty. Sharing resemblance with the celestial object (the moon), mooncakes nowadays have eight different variations, depending on where their origins are in China. One of the most popular fillings for mooncakes is the salted duck egg yolk. The most luxurious of the pastries will contain four egg yolks, each to represent a phase of the moon.
 
 This particular type of mooncake is famous to the Guangzhou area or at least the southern part of China. It's not like the traditional mooncake thats baked and usually filled with some type of salted duck egg yolk. This mooncake, with the amount of glutinous flour used, almost takes like a Japanese mochi. And when frozen, mochi ice cream! Now who doesn't love that? All in all, it's sweet, subtly creamy, and just a wonderful treat to share with friends and family.
 
-How would I alter this for next time? Hmm... I want to explore the different flavors that I can make with this dish. I have made a separate attempt at making a matcha-skinned, ube-filled mooncake and not going to lie, that was pretty delicious too. Anyways, if you have the time, try out this recipe! It's the mid-autumn festival after all.
+How would I alter this for next time? Hmm... I want to explore the different flavors that I can make with this dish. I have made a separate attempt at making a matcha-skinned, ube-filled mooncake and not going to lie, that was pretty delicious too. Anyways, if you have the time, try out this recipe! It's the Mid-Autumn Festival after all.
 
 {% include youtube-player.html id=page.youtube-id %}

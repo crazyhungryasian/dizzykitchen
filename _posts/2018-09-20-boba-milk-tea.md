@@ -59,7 +59,7 @@ recipe:
     3. Add in the tapioca pearls.
     4. (Optional) Add ice.
 ---
-Boba Milk Tea has always been a childhood favorite of mine; however, it can get a little expensive. With this recipe,
+Boba milk tea was basically my entire childhood. I vividly remember in high school, we would create these lists that ranked the best boba shop to the worst. Even though it was so delicious, it can get a little expensive. With this recipe,
 you can make a ton at a very low price. This recipe is super fun to make with family or with friends and because you are working with dough, don't be afraid to play around and make your own shapes! Plus, hand-making the tapioca pearls is a good alternative because then you know exactly what you are putting in your body. There's nothing processed, nothing faked. This is just about as natural as you can get with a drink like this.
 
 With this recipe, you can really make it your own. You can swap out the matcha powder for strawberry ice cream or mango puree. You can even try green tea instead of black tea. Using almond or cashew milk instead of regular milk is super delicious as well!

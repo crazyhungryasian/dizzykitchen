@@ -9,7 +9,7 @@ featured_image: /assets/IMG_7949.jpg
 recipe:
   servings: for 3 people
   prep: 10 minutes
-  cook: 20 minutes
+  cook: 40 minutes
   ingredients_markdown: |-
     * 3 medium sized potatoes
     * 1 1/2 tbsp corn starch
@@ -29,7 +29,7 @@ recipe:
     9. Preheat oven to 210 degrees Celsius.
     10. Grease your baking sheet (or recommended: line with aluminum foil).
     11. Place sweet potatoes onto sheet.
-    12. Bake for 30 minutes.
+    12. Bake for 40 minutes.
 ---
 Sweet potato fries has been the ultimate childhood favorite of mine. There was this shop basically walking distance from my house that sold boba and asian quick eats. I remember every time I went there, I would make a huge deal out of it. My favorite favorite favorite thing to order there was their sweet potato fries and crispy chicken.
 
