@@ -60,4 +60,6 @@ This particular type of mooncake is famous to the Guangzhou area or at least the
 
 How would I alter this for next time? Hmm... I want to explore the different flavors that I can make with this dish. I have made a separate attempt at making a matcha-skinned, ube-filled mooncake and not going to lie, that was pretty delicious too. Anyways, if you have the time, try out this recipe! It's the Mid-Autumn Festival after all.
 
+Note: The snow-skin recipe was influenced by VictoriaBakes. 
+
 {% include youtube-player.html id=page.youtube-id %}
